@@ -13,7 +13,7 @@ comments: true
 ---
 # Helping noobs get set up in 10 minutes so they can start their Python adventure…
 
-![coderman](/Users/niallmcnulty/Desktop/Medium/pictures/coderman.jpg){:class="img-responsive"}
+![coderman](/niall-anthony-mcnulty.github.io/assets/img/coderman.jpg){:class="img-responsive"}
 
 ### 
 
