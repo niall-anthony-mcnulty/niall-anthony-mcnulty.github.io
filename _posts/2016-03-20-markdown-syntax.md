@@ -11,18 +11,17 @@ tag:
 - jekyll
 comments: true
 ---
-
-## HTML Elements
-
-How do I Start Writing Code?? Getting Set up on Jupyter Notebook
-
 # Helping noobs get set up in 10 minutes so they can start their Python adventure…
 
-### Body text
+![coderman](/Users/niallmcnulty/Desktop/Medium/pictures/coderman.jpg){:class="img-responsive"}
+
+### 
 
 Hello everybody! I hope you are all happy and healthy. If you have found yourself reading this article, it is probably for one of two reasons.
-You want to learn how to write Python but just don’t know how to get started.
-You stumbled upon this article, and now you’re thinking to close the tab as this holds no interest over you. But slowly… I’m starting to pique your interest and you have decided, ‘why not, let’s read on. I guess I’m a coder now’.
+
+1. You want to learn how to write Python but just don’t know how to get started.
+2. You stumbled upon this article, and now you’re thinking to close the tab as this holds no interest over you. But slowly… I’m starting to pique your interest and you have decided, ‘why not, let’s read on. I guess I’m a coder now’.
+
 Funnily enough, I decided to write this article for my mum. Hi Mum. For the past month, I have been writing a ‘Beginners Guide to Python’ with new articles coming out each week. The aim is to help those wanting to start their Python journey. My mum has been following along step by step like the super fan she is. However, she mentioned she couldn’t keep up anymore without a medium to write and execute code on. So voila! This article was born to address that issue.
 This article will get us set up on Jupyter Notebook to the point where we can write and execute Python code. It is aimed at beginners and will have step by step instructions, keeping it as simple as possible and with as little technical jargon as possible. Along the way, we will use our Terminals /Cmd, so I will include a mini-tutorial on how to navigate those as well.
 For those unfamiliar with Python, it is a popular coding language with uses ranging from web applications, websites, data analytics, data visualisations, web-scraping, robotics, machine learning etc.
