@@ -1,6 +1,6 @@
 ---
-layout: Posts
+layout: post-list
 title: Blog
-excerpt: "Little Post Pieces"
+excerpt: "Blog Pieces"
 comments: false
 ---
