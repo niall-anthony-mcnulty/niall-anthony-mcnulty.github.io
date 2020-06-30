@@ -11,9 +11,9 @@ tag:
 - jekyll
 comments: true
 ---
-### Helping noobs get set up in 10 minutes so they can start their Python adventure…
+## Helping noobs get set up in 10 minutes so they can start their Python adventure…
 
-![coderman](/niall-anthony-mcnulty.github.io/assets/img/coderman.jpg =x300){:class="img-responsive"} 
+![coderman](/niall-anthony-mcnulty.github.io/assets/img/coderman.jpg =300x){:class="img-responsive"} 
 
 \
 Hello everybody! I hope you are all happy and healthy. If you have found yourself reading this article, it is probably for one of two reasons.
