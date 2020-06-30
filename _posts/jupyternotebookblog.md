@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting set up on Jupyter Notebook & Python"
-date:   2016-03-15
+date:   2020-05-15
 excerpt: "Want to start your Python Journey but don't know where to start? This blog piece will get you set up on Jupyter Notebook and Python. Goodluck on your Python Advenure."
 tag:
 - markdown 
