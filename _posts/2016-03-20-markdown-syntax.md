@@ -26,7 +26,7 @@ This article will get us set up on Jupyter Notebook to the point where we can wr
 For those unfamiliar with Python, it is a popular coding language with uses ranging from web applications, websites, data analytics, data visualisations, web-scraping, robotics, machine learning etc.
 Let’s crack on shall we?<br/>
 <br/>
-<p align="center"><iframe src="https://giphy.com/embed/3orieRSPKRODbLKBPO" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/season-5-the-simpsons-5x3-3orieRSPKRODbLKBPO">via GIPHY</a></p>
+<p align="center"><iframe src="https://giphy.com/embed/3orieRSPKRODbLKBPO" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/season-5-the-simpsons-5x3-3orieRSPKRODbLKBPO"></a></p>
 
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 
