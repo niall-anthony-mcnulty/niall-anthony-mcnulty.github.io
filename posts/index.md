@@ -1,6 +1,6 @@
 ---
 layout: Blog Pieces
-title: All Posts
-excerpt: "A List of Posts"
+title: Blog Pieces
+excerpt: "Blog Pieces"
 comments: false
 ---
