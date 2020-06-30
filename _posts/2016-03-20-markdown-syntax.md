@@ -2,8 +2,7 @@
 layout: post
 title:  "Getting set up on Jupyter Notebook & Python"
 date:   2020-05-15
-excerpt: <blockquote class="embedly-card"><h4><a href="https://medium.com/swlh/jupyter-notebook-getting-started-e817c75b2b8c">How do I Start Writing Code?? Getting Set up on Jupyter Notebook</a></h4><p>Hello everybody! I hope you are all happy and healthy. If you have found yourself reading this article, it is probably for one of two reasons. You want to learn how to write Python but just don't know how to get started.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+excerpt: "Been wanting to learn Python but don't know how to get set up? This blog piece will walk you through setting up Jupyter Notebook and Python on either Mac or PC. Let your Python adventure begin now!"
 tag:
 - markdown 
 - syntax
@@ -14,7 +13,9 @@ comments: true
 ---
 ## Helping noobs get set up in 10 minutes so they can start their Python adventure…
 
-![coderman](/niall-anthony-mcnulty.github.io/assets/img/coderman.jpg){:class="img-responsive"}
+<p align="center">
+ ![coderman](/niall-anthony-mcnulty.github.io/assets/img/coderman.jpg){:class="img-responsive"} 
+</p>
 <br/>
 Hello everybody! I hope you are all happy and healthy. If you have found yourself reading this article, it is probably for one of two reasons.
 
