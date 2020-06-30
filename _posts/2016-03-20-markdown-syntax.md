@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Markdown Syntax"
+title:  "Getting set up on Jupyter Notebook & Python"
 date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Want to start your Python Journey but don't know where to start? This blog piece will get you set up on Jupyter Notebook and Python. Goodluck on your Python Advenure."
 tag:
 - markdown 
 - syntax
@@ -14,32 +14,21 @@ comments: true
 
 ## HTML Elements
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+How do I Start Writing Code?? Getting Set up on Jupyter Notebook
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+# Helping noobs get set up in 10 minutes so they can start their Python adventure…
 
 ### Body text
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+Hello everybody! I hope you are all happy and healthy. If you have found yourself reading this article, it is probably for one of two reasons.
+You want to learn how to write Python but just don’t know how to get started.
+You stumbled upon this article, and now you’re thinking to close the tab as this holds no interest over you. But slowly… I’m starting to pique your interest and you have decided, ‘why not, let’s read on. I guess I’m a coder now’.
+Funnily enough, I decided to write this article for my mum. Hi Mum. For the past month, I have been writing a ‘Beginners Guide to Python’ with new articles coming out each week. The aim is to help those wanting to start their Python journey. My mum has been following along step by step like the super fan she is. However, she mentioned she couldn’t keep up anymore without a medium to write and execute code on. So voila! This article was born to address that issue.
+This article will get us set up on Jupyter Notebook to the point where we can write and execute Python code. It is aimed at beginners and will have step by step instructions, keeping it as simple as possible and with as little technical jargon as possible. Along the way, we will use our Terminals /Cmd, so I will include a mini-tutorial on how to navigate those as well.
+For those unfamiliar with Python, it is a popular coding language with uses ranging from web applications, websites, data analytics, data visualisations, web-scraping, robotics, machine learning etc.
+Let’s crack on shall we?
 
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
+<iframe src="https://giphy.com/embed/3orieRSPKRODbLKBPO" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-5-the-simpsons-5x3-3orieRSPKRODbLKBPO">via GIPHY</a></p>
 
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 
