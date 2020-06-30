@@ -15,7 +15,6 @@ comments: true
 
 ![coderman](/niall-anthony-mcnulty.github.io/assets/img/coderman.jpg){:class="img-responsive"}
 
-### 
 
 Hello everybody! I hope you are all happy and healthy. If you have found yourself reading this article, it is probably for one of two reasons.
 
@@ -26,6 +25,7 @@ Funnily enough, I decided to write this article for my mum. Hi Mum. For the past
 This article will get us set up on Jupyter Notebook to the point where we can write and execute Python code. It is aimed at beginners and will have step by step instructions, keeping it as simple as possible and with as little technical jargon as possible. Along the way, we will use our Terminals /Cmd, so I will include a mini-tutorial on how to navigate those as well.
 For those unfamiliar with Python, it is a popular coding language with uses ranging from web applications, websites, data analytics, data visualisations, web-scraping, robotics, machine learning etc.
 Let’s crack on shall we?
+
 
 <iframe src="https://giphy.com/embed/3orieRSPKRODbLKBPO" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-5-the-simpsons-5x3-3orieRSPKRODbLKBPO">via GIPHY</a></p>
 
