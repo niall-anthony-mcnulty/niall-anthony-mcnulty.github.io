@@ -13,8 +13,7 @@ comments: true
 ---
 ## Helping noobs get set up in 10 minutes so they can start their Python adventure…
 
-![coderman](/niall-anthony-mcnulty.github.io/assets/img/coderman.jpg width="200" height="200"){:class="img-responsive"}\
-
+![coderman](/niall-anthony-mcnulty.github.io/assets/img/coderman.jpg){:class="img-responsive"}
 <br/>
 Hello everybody! I hope you are all happy and healthy. If you have found yourself reading this article, it is probably for one of two reasons.
 
