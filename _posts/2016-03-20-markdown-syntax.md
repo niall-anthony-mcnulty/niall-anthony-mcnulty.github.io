@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Getting set up on Jupyter Notebook & Python"
 date:   2020-05-15
 excerpt: "Been wanting to learn Python but don't know how to get set up? This blog piece will walk you through setting up Jupyter Notebook and Python on either Mac or PC. Let your Python adventure begin now!"
