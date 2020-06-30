@@ -1,14 +1,14 @@
 # Site
-title:              Niall
-bio:                'My Projects & Blog'
-description:        "My Projects & Blog"
+title:              Niall McNulty
+bio:                'Data Scientist & Blogger'
+description:        "Data Scientist & Blogger"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/circle-cropped.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://niallprojects.tech
+url:                https://www.niallprojects.tech
 
 # Jekyll
 permalink:          /:title/
@@ -37,7 +37,7 @@ disqus_shortname:   Niall McNulty
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:             niallanthony.mcnulty@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         niall-anthony-mcnulty
