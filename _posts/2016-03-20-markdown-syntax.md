@@ -2,7 +2,8 @@
 layout: post
 title:  "Getting set up on Jupyter Notebook & Python"
 date:   2020-05-15
-excerpt: "Want to start your Python Journey but don't know where to start? This blog piece will get you set up on Jupyter Notebook and Python. Goodluck on your Python Advenure."
+excerpt: <blockquote class="embedly-card"><h4><a href="https://medium.com/swlh/jupyter-notebook-getting-started-e817c75b2b8c">How do I Start Writing Code?? Getting Set up on Jupyter Notebook</a></h4><p>Hello everybody! I hope you are all happy and healthy. If you have found yourself reading this article, it is probably for one of two reasons. You want to learn how to write Python but just don't know how to get started.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 tag:
 - markdown 
 - syntax
