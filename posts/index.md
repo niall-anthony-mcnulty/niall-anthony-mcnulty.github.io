@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: Blog Pieces
 title: All Posts
 excerpt: "A List of Posts"
 comments: false
