@@ -220,3 +220,8 @@ header .entry-meta {
         background-position: center center;
     }
 }
+
+ul > li {
+    display: inline-block;
+    /* You can also add some margins here to make it look prettier */
+}
